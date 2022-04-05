@@ -13,7 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Olá tudo bem? Me chamo Mariana Micheluzzi e tenho intersse em me tornar uma DevFrontEnd.
+#### Sobre mim:
+###### Meu nome é Mariana Micheluzzi e sou Técnica em Informática; 
+###### Pretendo iniciar uma faculdade na área da tecnologia e trabalhar com desenvolvimento Web ou front-end e tenho conhecimento em: vscode; mysql; banco de dados; lógica de programação; desenvolvimento web.
 
 ----
 
@@ -21,14 +23,14 @@ Here are some ideas to get you started:
 <img height="150" src="https://github-readme-stats.vercel.app/api?username=MMicheluzzi&theme=radical&show_icons=true">
  </div>
 
- ### Contato
+ #### Contato
  <a href="https://www.linkedin.com/in/mariana-micheluzzi/">
  <div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" aligh="center" height="50" width="50">
 </div>
 </a>
           
- ### Liguagens
+ #### Liguagens
  <div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" aligh="center" height="50" width="60">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" aligh="center" height="50" width="60">
